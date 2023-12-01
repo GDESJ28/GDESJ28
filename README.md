@@ -45,7 +45,7 @@ Assistant fonctionnel et technique de premier niveau sur une application de gest
 2001 - Objets procéduraux d’Oracle (Oracle France)
 2000 - Langages SQL, PL/SQL et outils SQL*PLUS (Oracle France) et utilisation Unix et programmation Shell
 
-Octobre 1996 –janvier 1998 : volontariat service long de 16 mois sans la Marine Nationale
+Octobre 1996 –janvier 1998 : volontariat service long de 16 mois dans la Marine Nationale
 1996 – Niveau Licence Chimie (Université Pierre et Marie Curie/Paris) 
 1994 - DEUG A- sciences et structure de la matière –Université Paris 13 –Institut Galilée
 1991 – Bac D (sciences
